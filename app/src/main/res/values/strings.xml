@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NotepadApp</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="add_note">Add Note</string>
+    <string name="title_hint">Title</string>
+    <string name="body_hint">Body</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="search_hint">Search notes</string>
+</resources>
